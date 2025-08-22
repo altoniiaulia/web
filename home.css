@@ -1,7 +1,7 @@
 body {
     margin: 0;
     background: #f99e17;
-    background-image: url(f0231c212377325.67db9f5aeacc1.png);
+    background-image: url(1.jpg);
     background-repeat: no-repeat;
     background-position: center bottom;
     background-size: 1000px ;
@@ -129,5 +129,6 @@ img {
 .card:hover .content {
     opacity: 1;
     transform: translateY(-190px);
+
 
 }
